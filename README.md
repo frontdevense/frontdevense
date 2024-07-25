@@ -67,7 +67,7 @@
 <h3 align="center">🔥 Github Stats</h3> 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=frontdevense&locale=en&mode=daily&theme=github_dark_dimmed&hide_border=true&card_width=450&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=frontdevense&locale=en&mode=daily&theme=github_dark_dimmed&hide_border=true&card_width=445&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frontdevense&locale=en&hide_title=false&layout=compact&card_width=325&langs_count=5&theme=github_dark_dimmed&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
