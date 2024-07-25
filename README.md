@@ -73,7 +73,7 @@
 <br />
 <br />
 
-<img src="https://github.com/user-attachments/assets/a94698b9-f53f-4d06-a2b3-287546709eb5" height="470px" align="left" />
+<img src="https://github.com/user-attachments/assets/a94698b9-f53f-4d06-a2b3-287546709eb5" height="390px" align="left" />
 
 <h3 align="center">🔥 Github Stats</h3> 
 
