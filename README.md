@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4B89D5&section=header"/>
 </p>
 
-<img src="https://github.com/user-attachments/assets/018edd1a-7a50-424f-a479-c51392589350" height="392px" align="right" />
+<img src="https://github.com/user-attachments/assets/018edd1a-7a50-424f-a479-c51392589350" height="390px" align="right" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4998&pause=1000&color=4B89D5&background=EBFF3F00&center=true&width=435&lines=Hello%2C+my+name+is+Filip.;I'm+a+Frontend+Developer+%3A)"></a>
